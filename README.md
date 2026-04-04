@@ -75,4 +75,4 @@ Access the application at: `http://localhost:8000`
 
 ## Contact Information
 For further inquiries, please contact:
-- Yorme-Sauce (YourEmail@example.com)
+- Gmail: (jayvee.ytac.anober119@gmail.com)
