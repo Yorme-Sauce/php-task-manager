@@ -34,5 +34,5 @@
 ## Contact Information
 For further inquiries, please contact:
 - Gmail: (jayvee.ytac.anober119@gmail.com)
-- 💬 Discord: **Yorme*
+- 💬 Discord: **Yorme**
 
