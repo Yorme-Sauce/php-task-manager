@@ -4,13 +4,9 @@
 
 ## Table of Contents
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Project Structure](#project-structure)
-4. [Usage](#usage)
-5. [Security Features](#security-features)
-6. [Learning Outcomes](#learning-outcomes)
-7. [Troubleshooting](#troubleshooting)
-8. [Contact Information](#contact-information)
+2. [Security Features](#security-features)
+3. [Learning Outcomes](#learning-outcomes)
+4. [Contact Information](#contact-information)
 
 ---
 
